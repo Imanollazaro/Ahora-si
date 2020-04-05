@@ -1,0 +1,9 @@
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\bin\Debug\TAREA 2 XD.exe.config
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\bin\Debug\TAREA 2 XD.exe
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\bin\Debug\TAREA 2 XD.pdb
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA 2 XD.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA_2_XD.Form1.resources
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA_2_XD.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA 2 XD.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA 2 XD.exe
+C:\Users\Windows 10\source\repos\TAREA 2 XD\TAREA 2 XD\obj\Debug\TAREA 2 XD.pdb
